@@ -1,6 +1,6 @@
 module tlsapi
 
-go 1.17
+go 1.23.3
 
 require (
 	github.com/Carcraftz/cclient v0.0.0-20210907233050-29fc0b0a880a
